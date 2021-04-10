@@ -1,0 +1,27 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgba(47, 63, 65, 0.705);
+}
+h4 {
+    text-align: center;
+}
+#container {
+    width: 250px;
+    height: 300px;
+    margin: 10px auto;
+    background: linear-gradient(rgba(119, 29, 29, 0.685), rgba(14, 22, 65, 0.3));
+    border-radius: 5px;
+}
+#num1 {
+    height: 20px;
+    margin: 10px auto;
+    text-align: right;
+}
+#num2 {
+    height: 20px;
+    margin: 10px auto;
+    text-align: right;
+}
+#result{
+    font-size: 25px;
+}
